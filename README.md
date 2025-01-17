@@ -23,16 +23,13 @@ Control a bird through an endless series of pipes, testing your reflexes and tim
 ## 📥 Installation
 
 1. Clone the repository:
-2. 
-git clone https://github.com/yourusername/flappy-bird.git
+2. git clone https://github.com/yourusername/flappy-bird.git
 
 2. Navigate to the project directory:
-3. 
-cd flappy-bird
+3. cd flappy-bird
 
 3. Install required packages:
-4. 
-pip install pygame
+4. pip install pygame
 
 4. Run the game:
 
