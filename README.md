@@ -97,12 +97,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com/codingguru2221)
+- Email: codexveer@gmail.com
 
 ## 💬 Support
 
-For support, email your.email@example.com or open an issue on GitHub.
+For support, email codexveer@gmail.com or open an issue on GitHub.
 
 ---
 
